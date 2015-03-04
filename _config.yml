@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Guia LPI
 email:       your_email@example.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Site com informações sobre a certificação Linux (LPI)"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://rafael-neri.github.io/guia-lpi"
 
 # Google analytics
 google_analytics:
