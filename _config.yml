@@ -3,7 +3,7 @@ title:       Guia LPI
 email:       your_email@example.com
 author:      John Otander
 description: "Site com informações sobre a certificação Linux (LPI)"
-baseurl:     ""
+baseurl:     "http://rafael-neri.github.io/guia-lpi"
 url:         "http://rafael-neri.github.io/guia-lpi"
 
 # Google analytics
